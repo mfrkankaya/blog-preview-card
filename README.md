@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-card-preview-XhoM6wSddz](https://www.frontendmentor.io/solutions/blog-card-preview-XhoM6wSddz)
+- Live Site URL: [https://mfrkankaya.github.io/blog-preview-card/](https://mfrkankaya.github.io/blog-preview-card/)
 
 ## My process
 
@@ -44,5 +44,5 @@ Users should be able to:
 ## Author
 
 - Website - [Furkan Kaya](https://fkaya.dev)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mfrkankaya)
-- Twitter - [@yourusername](https://www.twitter.com/mfrkankaya)
+- Frontend Mentor - [@mfrkankaya](https://www.frontendmentor.io/profile/mfrkankaya)
+- Twitter - [@mfrkankaya](https://www.twitter.com/mfrkankaya)
